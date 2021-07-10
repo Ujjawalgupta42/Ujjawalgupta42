@@ -26,3 +26,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawalgupta42&show_icons=true&locale=en" alt="ujjawalgupta42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalgupta42&" alt="ujjawalgupta42" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-jain-0b054a170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arpit-jain-0b054a170" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/people/arpit-jain/100011460231562/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/arpit-jain/100011460231562/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aj15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aj15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arpit456jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpit456jain" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="111arpit1" height="30" width="40" /></a>
+</p>
