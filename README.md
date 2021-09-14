@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ujjawalgupta42</h1>
+<h1 align="center">Hi 👋, I'm Ujjawal Gupta </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalgupta42&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalgupta42" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalgupta42" alt="ujjawalgupta42" /></a> </p>
 
-- 🔭 I’m currently working on **wield the web**
-
-- 🌱 I’m currently learning **ML**
-
-- 👯 I’m looking to collaborate on [Codesmashers](https://arpit4567jain.pythonanywhere.com/)
-
-- 👨‍💻 All of my projects are available at [https://arpit4567jain.pythonanywhere.com/](https://arpit4567jain.pythonanywhere.com/)
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **111arpit1@gmail.com**
+- 📫 How to reach me **ujjawalgupta2002@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-jain-0b054a170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arpit-jain-0b054a170" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ujjawal-gupta-248b5b86/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ujjawal-gupta-248b5b86/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/arpit-jain/100011460231562/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/arpit-jain/100011460231562/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aj15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aj15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arpit456jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpit456jain" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="111arpit1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ujjawalgupta20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujjawalgupta20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ujjawalgupta20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/coder_ujjawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="coder_ujjawal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ujjawalgupta20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="111arpit1" height="30" width="40" /></a>
 </p>
